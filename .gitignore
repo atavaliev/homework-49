@@ -1,2 +1,4 @@
-/task2/node_modules/*
 .idea
+/task2/node_modules/*
+/task2/board.js
+
